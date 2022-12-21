@@ -14,12 +14,8 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  
-  ---
 
-##  About Me :
-  I am a Frontend React Developer <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30">.
+ ## I am a Frontend React Developer <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30">.
   ---
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anatoliy-aliaksandrau/)
   
