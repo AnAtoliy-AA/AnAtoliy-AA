@@ -17,6 +17,7 @@
 
 ##  I am a Frontend React Developer <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="30">.
   ---
+- 📄 [CV](https://docs.google.com/document/d/1-dlqo68boeFaWEHimpqQZph2yyffpWH-W3NI8SZ_0VA/edit?usp=sharing)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anatoliy-aliaksandrau/)
   
   ---
