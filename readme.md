@@ -28,6 +28,19 @@ I am an AI-native **Senior Frontend Developer** with **5+ years of experience** 
 
 ---
 
+### 🚀 Featured Project: [Arcadeum](https://arcadeum.games)
+**Full-stack Monorepo Gaming Platform**
+
+> ⚡ **Core Highlight:** Achieved a perfect **100/100 Lighthouse score** for the web application, delivering a near-instant user experience.
+
+**Architecture & Tech:**
+- **Web**: `Next.js 14+` (App Router) | `Tamagui` | `Glassmorphism UI`
+- **Mobile**: `React Native` | `Expo` | `Cross-platform iOS/Android`
+- **Backend**: `NestJS` | `MongoDB` | `WebSockets` | `Type-safe i18n`
+- **Infrastructure**: `Turborepo` | `CI/CD` | `Cloud Deployment`
+
+---
+
 ### 🛠️ Tech Stack & Expertise
 
 <details open>
@@ -41,7 +54,7 @@ I am an AI-native **Senior Frontend Developer** with **5+ years of experience** 
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
 </details>
 
-<details>
+<details open>
 <summary><b>Styling & UI Ecosystem</b></summary>
 <br/>
 <img src="https://img.shields.io/badge/Tamagui-FFCC00?style=for-the-badge&logo=tamagui&logoColor=black" alt="Tamagui"/>
@@ -51,7 +64,7 @@ I am an AI-native **Senior Frontend Developer** with **5+ years of experience** 
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </details>
 
-<details>
+<details open>
 <summary><b>Backend & Infrastructure</b></summary>
 <br/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
@@ -61,7 +74,7 @@ I am an AI-native **Senior Frontend Developer** with **5+ years of experience** 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </details>
 
-<details>
+<details open>
 <summary><b>Testing & Automation</b></summary>
 <br/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
@@ -75,10 +88,12 @@ I am an AI-native **Senior Frontend Developer** with **5+ years of experience** 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=AnAtoliy-AA&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=AnAtoliy-AA&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-  <br/>
+  <table>
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnAtoliy-AA&theme=dark" alt="GitHub Stats" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnAtoliy-AA&theme=dark" alt="Top Languages" /></td>
+    </tr>
+  </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnAtoliy-AA&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
